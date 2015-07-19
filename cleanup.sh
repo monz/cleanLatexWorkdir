@@ -9,7 +9,7 @@ filetypesFile="filetypes.txt"
 
 # if insufficient arguments print usage
 if [ -z "$1" ]; then
-	echo "Usage: $0 -p=<path/to/clean> [-f/--filetypes] [-r/--recursive]"
+	echo "Usage: $0 -p=<path/to/clean> [-f=<path/to/fileExtensionFile>] [-r/--recursive]"
 	exit 1
 fi	
 
