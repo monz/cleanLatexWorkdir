@@ -7,7 +7,7 @@ current version is not able to clean up paths with whitespace in its name
 
 Usage:
 ------
-<pre> ./cleanup.sh -p=<path/to/clean> [-f=<path/to/fileExtensionFile>] [-r/--recursive] </pre>
+<pre> ./cleanup.sh -p=&lt;path/to/clean&gt; [-f=&lt;path/to/fileExtensionFile&gt;] [-r/--recursive] </pre>
 
 Info:
 -----
